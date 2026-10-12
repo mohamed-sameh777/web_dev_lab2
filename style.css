@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f7f3eb;
+    color: #333333;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    background-color: #263238;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+header h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+section {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+    border: 1px solid #e0d8cc;
+}
+
+section h2 {
+    color: #d97706;
+    margin-bottom: 20px;
+}
+
+section p {
+    line-height: 1.6;
+}
+
+a {
+    color: #d97706;
+}
+
+.skills {
+    text-align: center;
+}
+
+.skills span {
+    display: inline-block;
+    background-color: #fff0d9;
+    color: #9a4f00;
+    padding: 10px 15px;
+    margin: 5px;
+    border: 1px solid #e8a23a;
+}
+
+.project {
+    display: block;
+    vertical-align: top;
+    width: 27%;
+    background-color: #fffaf2;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #e0d8cc;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+    text-align: left;
+}
+
+.project h3 {
+    color: #263238;
+}
+
+.project p {
+    color: #555555;
+}
+
+.contact {
+    padding: 50px;
+}
+
+footer {
+    background-color: #263238;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
